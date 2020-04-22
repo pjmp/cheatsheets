@@ -20,3 +20,7 @@ Unexhaustive list of cheatsheet resources that can be are primarily interacted v
 > [srsudar/eg](https://github.com/srsudar/eg)
 >
 > Useful examples at the command line.
+
+> [jbranchaud/til](https://github.com/jbranchaud/til)
+>
+> :memo: Today I Learned
